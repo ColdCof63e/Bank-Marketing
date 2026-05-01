@@ -1,6 +1,6 @@
 📊 Bank Marketing Prediction
 
-A machine learning project focused on predicting whether a client will subscribe to a term deposit based on historical marketing campaign data.
+A Data Analysis project focused on predicting whether a client will subscribe to a term deposit based on historical marketing campaign data.
 
 🚀 Project Overview
 
